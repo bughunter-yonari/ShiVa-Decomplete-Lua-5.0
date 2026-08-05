@@ -7,6 +7,8 @@ Lua file unpacking plugin for Engine Shiva, Lua version 5.0🟣⚪
 
 # ShiVa Lua 5.0 Decompiler👾¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 
+![:D](icon34.png)
+
 Decompiler for Lua 5.0 bytecode used in ShiVa3D games.
 
 ## Features🫠(⁠｡⁠・⁠/⁠/⁠ε⁠/⁠/⁠・⁠｡⁠)
