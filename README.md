@@ -1,11 +1,13 @@
-# ShiVa-Decomplete-Lua-5.0
+# ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ⚠️🫠ATTENTION! THIS IS A CURVED VERSION.🫠⚠️(⁠゜⁠o⁠゜⁠;
+
+# ShiVa-Decomplete-Lua-5.0乁⁠(⁠ ⁠•⁠_⁠•⁠ ⁠)⁠ㄏ
 Lua file unpacking plugin for Engine Shiva, Lua version 5.0🟣⚪
 
-# ShiVa Lua 5.0 Decompiler👾
+# ShiVa Lua 5.0 Decompiler👾¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 
 Decompiler for Lua 5.0 bytecode used in ShiVa3D games.
 
-## Features🫠
+## Features🫠(⁠｡⁠・⁠/⁠/⁠ε⁠/⁠/⁠・⁠｡⁠)
 - Parses Lua 5.0 chunks
 - Restores constants
 - Decodes instructions
@@ -20,10 +22,24 @@ python lua50_decompiler.py file.lub
 restores different cycles
 
 
-# xD!!
+# 🫠👾The purpose of the decompiler xD!!
 
-→ for modding
+→ for modding•́⁠ ⁠ ⁠‿⁠ ⁠,⁠•̀
 
-→ for reverse engineering 
+→ for reverse engineering (⁠◕⁠ᴗ⁠◕⁠✿⁠)
 
-→ for research 
+→ to search for vulnerabilities(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡
+
+
+## I take no responsibility for your purpose for this decompiler 👥
+
+We don't support it if you use a cheating tool, but we are not responsible for it🔑ヘ⁠（⁠。⁠□⁠°⁠）⁠ヘ
+
+
+We wish everyone good luck who will use this decompiler! (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤
+
+
+
+
+
+ 
