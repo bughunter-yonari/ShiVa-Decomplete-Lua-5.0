@@ -1,5 +1,7 @@
 # ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ⚠️🫠ATTENTION! THIS IS A CURVED VERSION.🫠⚠️(⁠゜⁠o⁠゜⁠;
 
+ෆ⁠╹⁠ ⁠.̮⁠ ⁠╹⁠ෆ A full ShiVa extractor will be released soon! But you can also use it to decompile .lub files if you use a different extractor for ShiVa3D🐺🔎
+
 # ShiVa-Decomplete-Lua-5.0乁⁠(⁠ ⁠•⁠_⁠•⁠ ⁠)⁠ㄏ
 Lua file unpacking plugin for Engine Shiva, Lua version 5.0🟣⚪
 
@@ -31,7 +33,7 @@ restores different cycles
 → to search for vulnerabilities(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡
 
 
-## I take no responsibility for your purpose for this decompiler 👥
+### I take no responsibility for your purpose for this decompiler 👥
 
 We don't support it if you use a cheating tool, but we are not responsible for it🔑ヘ⁠（⁠。⁠□⁠°⁠）⁠ヘ
 
