@@ -17,6 +17,9 @@ Decompiler for Lua 5.0 bytecode used in ShiVa3D games.
 - Decodes instructions
 - Reconstructs readable Lua code
 
+
+![shiva](shiva3d.png)
+
 ## Usage
 
 python lua50_decompiler.py file.lub 
@@ -34,6 +37,8 @@ restores different cycles
 
 → to search for vulnerabilities(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡
 
+
+![xD](modules.1.jpg)
 
 ### I take no responsibility for your purpose for this decompiler 👥
 
