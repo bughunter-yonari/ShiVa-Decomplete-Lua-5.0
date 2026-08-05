@@ -1,11 +1,11 @@
 # ShiVa-Decomplete-Lua-5.0
-Lua file unpacking plugin for Engine Shiva, Lua version 5.0
+Lua file unpacking plugin for Engine Shiva, Lua version 5.0🟣⚪
 
-# ShiVa Lua 5.0 Decompiler
+# ShiVa Lua 5.0 Decompiler👾
 
 Decompiler for Lua 5.0 bytecode used in ShiVa3D games.
 
-## Features
+## Features🫠
 - Parses Lua 5.0 chunks
 - Restores constants
 - Decodes instructions
@@ -14,3 +14,16 @@ Decompiler for Lua 5.0 bytecode used in ShiVa3D games.
 ## Usage
 
 python lua50_decompiler.py file.lub 
+
+## what does👾😈
+
+restores different cycles
+
+
+# xD!!
+
+→ for modding
+
+→ for reverse engineering 
+
+→ for research 
