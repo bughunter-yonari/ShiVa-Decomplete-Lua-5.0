@@ -1,3 +1,5 @@
+
+![lua](images.png)
 # ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ⚠️🫠ATTENTION! THIS IS A CURVED VERSION.🫠⚠️(⁠゜⁠o⁠゜⁠;
 
 ෆ⁠╹⁠ ⁠.̮⁠ ⁠╹⁠ෆ A full ShiVa extractor will be released soon! But you can also use it to decompile .lub files if you use a different extractor for ShiVa3D🐺🔎
